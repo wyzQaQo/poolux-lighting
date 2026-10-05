@@ -1,0 +1,358 @@
+{
+  "categories": [
+    {
+      "slug": "in-ground-pool-lights",
+      "name": "In-Ground Pool Lights",
+      "description": "Flush-mount & wall-mount LED pool lights engineered for infinity pools, resort swimming pools, and luxury residential installations. Ultra-slim profile, absolute IP68 waterproofing, and 12V/24V low-voltage safety.",
+      "icon": "Waves",
+      "seo": {
+        "title": "In-Ground & Wall-Mount Commercial Pool Lights | IP68 LED | Poolux",
+        "description": "Certified IP68 in-ground pool lights with 12V/24V DC low-voltage safety. SS316L marine-grade stainless steel. DMX512 controllable. Factory-direct wholesale pricing."
+      }
+    },
+    {
+      "slug": "fountain-water-feature-lights",
+      "name": "Fountain & Water Feature Lights",
+      "description": "Specialized LED lighting for musical fountains, landscape streams, waterfalls, and architectural water features. Center-hole / adjustable-bracket designs for precision beam placement.",
+      "icon": "Droplets",
+      "seo": {
+        "title": "Fountain & Water Feature LED Lights | RGBW DMX512 | Poolux",
+        "description": "Commercial fountain lights with center-hole mounting. IP68 rated, RGBW color changing, DMX512 synchronized control. Designed for musical fountains and landscape water features."
+      }
+    },
+    {
+      "slug": "marine-saltwater-lights",
+      "name": "Marine & Saltwater-Grade Lights",
+      "description": "316L stainless steel underwater lights built for beachfront resorts, yacht marinas, and coastal infrastructure. Extreme corrosion resistance against saltwater and chlorine.",
+      "icon": "Anchor",
+      "seo": {
+        "title": "Marine-Grade Saltwater Underwater Lights | SS316L | Poolux",
+        "description": "SS316L marine-grade underwater LED lights for saltwater pools, yacht marinas, and coastal resorts. 100% air-tightness tested. IP68 certified. Wholesale factory supply."
+      }
+    }
+  ],
+  "products": [
+    {
+      "slug": "plx-inground-pro-12w",
+      "name": "PLX InGround Pro 12W",
+      "tagline": "Ultra-slim flush-mount LED for infinity pools",
+      "category": "in-ground-pool-lights",
+      "description": "The PLX InGround Pro 12W is our flagship flush-mount pool light, designed specifically for luxury infinity pools and high-traffic resort swimming pools. With an ultra-slim 8mm bezel and 316L marine-grade stainless steel construction, it sits virtually flush with the pool wall — no protrusion, no hazard for swimmers. Each unit undergoes 100% air-tightness testing and 48-hour submerged pressure testing before leaving our factory.",
+      "features": [
+        "Ultra-slim 8mm bezel — virtually flush with pool wall",
+        "316L marine-grade stainless steel — superior chloride & saltwater resistance",
+        "100% factory air-tightness + 48hr submerged pressure tested",
+        "12V/24V DC low-voltage — absolutely safe for swimmers",
+        "DMX512 / 4-Wire Sync controllable — perfect multi-light synchronization",
+        "RGBW + Warm White (3000K) — millions of colors + pure warm white",
+        "Full glue-filled waterproofing — zero internal cavity for water ingress",
+        "50,000-hour LED lifespan — maintenance-free for years"
+      ],
+      "specs": {
+        "material": "SS316L",
+        "voltage": "12V/24V DC",
+        "wattage": 12,
+        "ipRating": "IP68",
+        "lumenOutput": 1200,
+        "beamAngle": 45,
+        "controlProtocol": "DMX512",
+        "colorTemp": "RGBW + Warm White 3000K",
+        "lifespan": "50,000 hrs",
+        "warranty": "3 Years",
+        "dimensions": {
+          "diameter": 120,
+          "height": 35,
+          "cutout": 105
+        },
+        "cableLength": 3,
+        "certifications": ["CE", "RoHS", "FCC", "IP68", "UL Listed"]
+      },
+      "images": [
+        "/images/products/plx-inground-pro-12w-01.jpg",
+        "/images/products/plx-inground-pro-12w-02.jpg"
+      ],
+      "applications": [
+        "Infinity pools",
+        "Resort swimming pools",
+        "Luxury residential pools",
+        "Hotel pool complexes"
+      ],
+      "relatedProducts": ["plx-inground-slim-9w", "plx-fountain-music-18w"],
+      "seo": {
+        "title": "PLX InGround Pro 12W | IP68 SS316L Flush-Mount Pool Light",
+        "description": "12W IP68 flush-mount LED pool light with SS316L marine-grade stainless steel. 12V/24V DC low-voltage, DMX512 RGBW, 1200lm. 100% air-tightness tested. Free custom wiring diagram.",
+        "keywords": ["IP68 flush mount pool light", "SS316L pool light", "12V DC underwater LED", "DMX512 pool light", "commercial infinity pool lighting"]
+      }
+    },
+    {
+      "slug": "plx-inground-slim-9w",
+      "name": "PLX InGround Slim 9W",
+      "tagline": "Compact wall-mount LED for medium pools & spas",
+      "category": "in-ground-pool-lights",
+      "description": "The PLX InGround Slim 9W is our compact wall-mount solution for medium-sized swimming pools, spas, and jacuzzis. Features the same SS316L marine-grade construction and IP68 waterproofing as our Pro series, in a more compact form factor. Ideal for pools where multiple smaller lights create a more distributed, ambient lighting effect.",
+      "features": [
+        "Compact 90mm diameter — perfect for distributed lighting layouts",
+        "316L stainless steel body — full chloride resistance",
+        "12V DC ultra-low voltage — human-safe operation",
+        "4-Wire synchronous RGBW control — zero color lag",
+        "Full epoxy potting — waterproof to 5m depth",
+        "CE, RoHS, IP68 certified — approved for commercial use"
+      ],
+      "specs": {
+        "material": "SS316L",
+        "voltage": "12V DC",
+        "wattage": 9,
+        "ipRating": "IP68",
+        "lumenOutput": 900,
+        "beamAngle": 60,
+        "controlProtocol": "4-Wire Sync",
+        "colorTemp": "RGBW + Warm White 3000K",
+        "lifespan": "50,000 hrs",
+        "warranty": "3 Years",
+        "dimensions": {
+          "diameter": 90,
+          "height": 30,
+          "cutout": 78
+        },
+        "cableLength": 2.5,
+        "certifications": ["CE", "RoHS", "IP68"]
+      },
+      "images": [
+        "/images/products/plx-inground-slim-9w-01.jpg",
+        "/images/products/plx-inground-slim-9w-02.jpg"
+      ],
+      "applications": [
+        "Medium swimming pools",
+        "Spas & Jacuzzis",
+        "Residential pools",
+        "Wellness centers"
+      ],
+      "relatedProducts": ["plx-inground-pro-12w", "plx-fountain-jet-6w"],
+      "seo": {
+        "title": "PLX InGround Slim 9W | Compact IP68 Pool Wall Light SS316L",
+        "description": "9W compact IP68 wall-mount LED pool light. SS316L stainless steel, 12V DC low-voltage, 4-wire RGBW sync. 900lm output. Ideal for spas and medium pools.",
+        "keywords": ["compact pool light", "SS316L underwater light", "9W LED pool light", "wall mount pool light", "spa lighting"]
+      }
+    },
+    {
+      "slug": "plx-fountain-music-18w",
+      "name": "PLX Fountain Music 18W",
+      "tagline": "High-power RGBW for musical fountains & large water features",
+      "category": "fountain-water-feature-lights",
+      "description": "The PLX Fountain Music 18W is purpose-built for large-scale musical fountains, monumental water features, and architectural landscape installations. Features a built-in center hole (25mm) for water-jet integration, adjustable 0-90° stainless steel mounting bracket, and high-output 18W LED array delivering 2000 lumens. DMX512 protocol ensures frame-perfect synchronization across dozens of fixtures.",
+      "features": [
+        "25mm center hole — direct water-jet pass-through",
+        "0-90° adjustable SS316L bracket — precise beam targeting",
+        "High-output 18W LED — 2000lm brightness",
+        "DMX512 protocol — zero-lag multi-fixture sync",
+        "IP68 + full epoxy potting — permanent submersion rated",
+        "RGBW + Warm White — full spectrum color mixing",
+        "Tempered glass lens — impact & thermal shock resistant"
+      ],
+      "specs": {
+        "material": "SS316L",
+        "voltage": "24V DC",
+        "wattage": 18,
+        "ipRating": "IP68",
+        "lumenOutput": 2000,
+        "beamAngle": 30,
+        "controlProtocol": "DMX512",
+        "colorTemp": "RGBW + Warm White 3000K",
+        "lifespan": "50,000 hrs",
+        "warranty": "5 Years",
+        "dimensions": {
+          "diameter": 160,
+          "height": 55
+        },
+        "cableLength": 5,
+        "certifications": ["CE", "RoHS", "FCC", "IP68"]
+      },
+      "images": [
+        "/images/products/plx-fountain-music-18w-01.jpg",
+        "/images/products/plx-fountain-music-18w-02.jpg"
+      ],
+      "applications": [
+        "Musical fountains",
+        "Monumental water features",
+        "Theme park water shows",
+        "City square fountains"
+      ],
+      "relatedProducts": ["plx-fountain-jet-6w", "plx-marine-coastal-15w"],
+      "seo": {
+        "title": "PLX Fountain Music 18W | DMX512 Musical Fountain LED Light",
+        "description": "18W DMX512 musical fountain LED light with 25mm center jet hole. SS316L, 24V DC, 2000lm, IP68. Adjustable bracket. Perfect for synchronized water shows.",
+        "keywords": ["DMX512 fountain light", "musical fountain LED", "center hole fountain light", "RGBW water feature light", "commercial fountain lighting"]
+      }
+    },
+    {
+      "slug": "plx-fountain-jet-6w",
+      "name": "PLX Fountain Jet 6W",
+      "tagline": "Compact center-hole LED for landscape streams & waterfalls",
+      "category": "fountain-water-feature-lights",
+      "description": "The PLX Fountain Jet 6W is our compact landscape water feature light, designed for garden streams, cascading waterfalls, and decorative ponds. Its small 60mm diameter with 15mm center hole allows seamless integration with thin water jets and spray nozzles. Available with fixed-color (Warm White 3000K) or RGBW options.",
+      "features": [
+        "Ultra-compact 60mm — fits tight landscape spaces",
+        "15mm center hole — thin water jet compatible",
+        "Fixed Warm White or RGBW color options",
+        "SS316L body — lifetime corrosion resistance",
+        "2.5m cable — flexible installation",
+        "12V DC low-voltage — safe for public spaces"
+      ],
+      "specs": {
+        "material": "SS316L",
+        "voltage": "12V DC",
+        "wattage": 6,
+        "ipRating": "IP68",
+        "lumenOutput": 600,
+        "beamAngle": 90,
+        "controlProtocol": "Standalone",
+        "colorTemp": "RGBW / Warm White 3000K",
+        "lifespan": "50,000 hrs",
+        "warranty": "2 Years",
+        "dimensions": {
+          "diameter": 60,
+          "height": 25
+        },
+        "cableLength": 2.5,
+        "certifications": ["CE", "RoHS", "IP68"]
+      },
+      "images": [
+        "/images/products/plx-fountain-jet-6w-01.jpg",
+        "/images/products/plx-fountain-jet-6w-02.jpg"
+      ],
+      "applications": [
+        "Garden streams",
+        "Waterfalls",
+        "Decorative ponds",
+        "Small water features"
+      ],
+      "relatedProducts": ["plx-fountain-music-18w", "plx-inground-slim-9w"],
+      "seo": {
+        "title": "PLX Fountain Jet 6W | Compact Center-Hole Water Feature LED Light",
+        "description": "6W compact center-hole LED light for landscape streams & waterfalls. SS316L, 12V DC, IP68, 600lm. 15mm jet pass-through. Fixed or RGBW color options.",
+        "keywords": ["landscape fountain light", "waterfall LED light", "center hole fountain LED", "garden pond light", "small water feature lighting"]
+      }
+    },
+    {
+      "slug": "plx-marine-coastal-15w",
+      "name": "PLX Marine Coastal 15W",
+      "tagline": "Extreme saltwater-corrosion LED for beachfront & marinas",
+      "category": "marine-saltwater-lights",
+      "description": "The PLX Marine Coastal 15W is engineered for the harshest marine environments — beachfront resorts, yacht marina docks, and coastal boardwalks where salt spray and high humidity destroy ordinary lights within months. Every component is 316L, every seal is double-gasketed, and every unit passes a 72-hour accelerated salt-spray test (ASTM B117) before shipment.",
+      "features": [
+        "Full 316L construction — including screws, bracket, and housing",
+        "72-hour ASTM B117 salt-spray tested — proven marine durability",
+        "Double-gasket sealing — redundant water ingress protection",
+        "Anti-biofouling lens coating — prevents barnacle & algae buildup",
+        "24V DC low-voltage — safe for wet-deck applications",
+        "DMX512 / RF Wireless — flexible control options",
+        "5-year warranty — our highest warranty tier"
+      ],
+      "specs": {
+        "material": "SS316L",
+        "voltage": "24V DC",
+        "wattage": 15,
+        "ipRating": "IP68",
+        "lumenOutput": 1500,
+        "beamAngle": 40,
+        "controlProtocol": "DMX512",
+        "colorTemp": "RGBW + Warm White 3000K",
+        "lifespan": "50,000 hrs",
+        "warranty": "5 Years",
+        "dimensions": {
+          "diameter": 140,
+          "height": 42
+        },
+        "cableLength": 5,
+        "certifications": ["CE", "RoHS", "FCC", "IP68", "UL Listed", "ASTM B117"]
+      },
+      "images": [
+        "/images/products/plx-marine-coastal-15w-01.jpg",
+        "/images/products/plx-marine-coastal-15w-02.jpg"
+      ],
+      "applications": [
+        "Beachfront resort pools",
+        "Yacht marina docks",
+        "Coastal boardwalks",
+        "Saltwater swimming pools",
+        "Offshore platform lighting"
+      ],
+      "relatedProducts": ["plx-marine-dock-10w", "plx-inground-pro-12w"],
+      "seo": {
+        "title": "PLX Marine Coastal 15W | SS316L Saltwater Corrosion-Proof LED Light",
+        "description": "15W SS316L marine-grade underwater LED for beachfront resorts & yacht marinas. 72hr ASTM B117 salt-spray tested. IP68, 24V DC, DMX512. 5-year warranty.",
+        "keywords": ["SS316L marine light", "saltwater pool LED", "yacht marina lighting", "coastal underwater light", "corrosion proof pool light"]
+      }
+    },
+    {
+      "slug": "plx-marine-dock-10w",
+      "name": "PLX Marine Dock 10W",
+      "tagline": "Compact marina dock & pontoon perimeter light",
+      "category": "marine-saltwater-lights",
+      "description": "The PLX Marine Dock 10W is designed for marina dock edge lighting, floating pontoon perimeter illumination, and boat launch ramp guidance. Its wide 120° beam angle floods horizontal surfaces, and the 316L body with chemical-resistant silicone seal ensures years of maintenance-free operation even with constant diesel/oil exposure common in marina environments.",
+      "features": [
+        "120° wide beam — perfect for dock & pontoon edge illumination",
+        "316L + chemical-resistant silicone — diesel/oil exposure safe",
+        "Surface-mount flange — easy retrofit on existing docks",
+        "12V DC — intrinsically safe for marina electrical code",
+        "Standalone warm white option — no controller needed",
+        "3-year warranty — trusted for commercial marina use"
+      ],
+      "specs": {
+        "material": "SS316L",
+        "voltage": "12V DC",
+        "wattage": 10,
+        "ipRating": "IP68",
+        "lumenOutput": 1000,
+        "beamAngle": 120,
+        "controlProtocol": "Standalone",
+        "colorTemp": "Warm White 3000K / RGBW",
+        "lifespan": "50,000 hrs",
+        "warranty": "3 Years",
+        "dimensions": {
+          "diameter": 110,
+          "height": 38
+        },
+        "cableLength": 3,
+        "certifications": ["CE", "RoHS", "FCC", "IP68"]
+      },
+      "images": [
+        "/images/products/plx-marine-dock-10w-01.jpg",
+        "/images/products/plx-marine-dock-10w-02.jpg"
+      ],
+      "applications": [
+        "Marina dock edges",
+        "Floating pontoon perimeters",
+        "Boat launch ramps",
+        "Seawall & bulkhead lighting"
+      ],
+      "relatedProducts": ["plx-marine-coastal-15w", "plx-fountain-music-18w"],
+      "seo": {
+        "title": "PLX Marine Dock 10W | SS316L Marina Dock Edge LED Light",
+        "description": "10W SS316L marina dock edge LED light with 120° wide beam. Chemical-resistant, 12V DC, IP68. Perfect for floating pontoons, dock perimeters, and boat ramps.",
+        "keywords": ["marina dock light", "pontoon perimeter LED", "SS316L dock light", "boat ramp lighting", "floating dock illumination"]
+      }
+    }
+  ],
+  "certifications": [
+    { "name": "CE", "description": "European safety & health compliance. Mandatory for EU market entry." },
+    { "name": "RoHS", "description": "Restriction of Hazardous Substances. Lead-free, mercury-free manufacturing." },
+    { "name": "FCC", "description": "Federal Communications Commission. EMI/EMC compliance for US market." },
+    { "name": "IP68", "description": "Total dust ingress protection + continuous submersion beyond 1m depth." },
+    { "name": "UL Listed", "description": "Underwriters Laboratories safety certification. Required by US electrical code." },
+    { "name": "ASTM B117", "description": "72-hour accelerated salt-spray corrosion test. Marine-grade validation." }
+  ],
+  "company": {
+    "name": "Poolux Lighting",
+    "tagline": "Certified IP68 SS316 Underwater Lighting Systems — Engineered for Resort Pools & Marine Infrastructures",
+    "description": "Poolux Lighting is a specialized manufacturer of commercial-grade underwater LED lighting systems. With 15+ years of OEM/ODM experience, we supply IP68-certified, SS316L-constructed pool, fountain, and marine lights to resort developers, landscape architects, and marine infrastructure contractors worldwide. Every unit is 100% air-tightness tested before shipment.",
+    "founded": "2009",
+    "employees": "200+",
+    "factorySize": "8,000 sqm",
+    "annualCapacity": "500,000 units",
+    "exports": "60+ countries",
+    "email": "inquiry@poolux-lighting.com",
+    "whatsapp": "+8613812345678",
+    "address": "No. 88, LED Industrial Park, Zhongshan, Guangdong 528400, China"
+  }
+}
