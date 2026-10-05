@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import type { Metadata } from "next";
 import Script from "next/script";
 import { FadeContent } from "@/components/shared/FadeContent";

@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import { HeroSection } from "@/components/home/HeroSection";
 import { CertificationsBar } from "@/components/home/CertificationsBar";
 import { ProductGrid } from "@/components/home/ProductGrid";
